@@ -1,0 +1,3488 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/FreeSql/FreeSql/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "Xh9Pl/eo78K6FlqGZQHlhR7kguXdeVOS6N0hlWE16dQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.AdoNetExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.AdoNetExtensions.html",
+          "hash": "Xew6SHliXMd9rSc6mxVwYor8vhvtx+Ord0irsYdOV84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.AuditDataReaderEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.AuditDataReaderEventArgs.html",
+          "hash": "vSu9tuJ4IZiXTo4D930UFEsa4KIuPIft9tJgEF6miNQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.AuditValueEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.AuditValueEventArgs.html",
+          "hash": "YCI5tDDgubv5+pUjY4n0gF4XCrn+x51M1iRntQof1G8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.AuditValueType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.AuditValueType.html",
+          "hash": "Pdhduoq7uGM/oJJABjoTC1QQk0BAGoEFc5MHh2lsZFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.CommandAfterEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.CommandAfterEventArgs.html",
+          "hash": "RoUj7oUlzHu9YahgO4BWKo1fZYG/UDhS3bm80zBCh3c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.CommandBeforeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.CommandBeforeEventArgs.html",
+          "hash": "CstVcbAHfPnA3W31IxhaWACkufxkxtKeW4S3U7ybSO0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.ConfigEntityEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.ConfigEntityEventArgs.html",
+          "hash": "PS+YxI0TlvXJmENuWu5UvjrUo7dH2VMsWmkfoM8+VCI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.ConfigEntityPropertyEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.ConfigEntityPropertyEventArgs.html",
+          "hash": "/ITlwdydC9qTZ6beuNZfqDGSIAhprp7XrAmAWQl3P44="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.CurdAfterEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.CurdAfterEventArgs.html",
+          "hash": "WL8AWRYbFiiRsxR4pkapBF2uVX6f7a9NPMoK647UVl4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.CurdBeforeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.CurdBeforeEventArgs.html",
+          "hash": "6gciUaOmLDe0G+KTscWWwe9C1MUjtq2HJSYkrSMdEkU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.CurdType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.CurdType.html",
+          "hash": "QjQvpjJQ2sLRkDcFlNDN7bBUaXf+/XJuebfRZyCHLvw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.ParseExpressionEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.ParseExpressionEventArgs.html",
+          "hash": "FXF5IXjrxaQ6JJ8zqrwDWAH6t+7QxXRxHdDcrdxBjzE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.SyncStructureAfterEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.SyncStructureAfterEventArgs.html",
+          "hash": "7jFfzL+7exfkQaTU5kElAr282L288cfmyajKZ4vefeM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.SyncStructureBeforeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.SyncStructureBeforeEventArgs.html",
+          "hash": "4TjGdaJn+/05E/vPx32FFz8DUaHeg3SlCBSFeLFyQ8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.TraceAfterEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.TraceAfterEventArgs.html",
+          "hash": "QFACvEZa4yFHFBjL7EaihOugTx2QpMQ0EO6FK9JzI94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.TraceBeforeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.TraceBeforeEventArgs.html",
+          "hash": "MardLUAp3dcv1qDpjiEXlrMpqfKlULoQycMJ3/akJyI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Aop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Aop.html",
+          "hash": "9eyTGc1uboq/ERcOBvsnpucgGLzTg7uDfyafuibNhWo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.ColumnAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.ColumnAttribute.html",
+          "hash": "Wvqmk5NbAZ7ndZbovXmL9PmMzcUVefUADnCyvptdq7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.ColumnFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.ColumnFluent.html",
+          "hash": "Qi6mtEEP1Dpj//U8Oj20uGSx7XJ3kd75UUtOwm9w0Kc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.ExpressionCallAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.ExpressionCallAttribute.html",
+          "hash": "znc27V2v/q/iz1blyWAesadC1QKcTe5uZ8rf2LNoUtI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.ExpressionCallContext.IUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.ExpressionCallContext.IUtility.html",
+          "hash": "XqUXdeahqrEkc5If9C9rsKj/Yzv/My9vuUnHBoPc1Fg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.ExpressionCallContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.ExpressionCallContext.html",
+          "hash": "VJwgaRp53sWOotPxCdFe01qqRDDBlo4x2bPyzwGsXts="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.IndexAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.IndexAttribute.html",
+          "hash": "hG1LOVaz1t2swAF+x5RfaPzBddLtkTTj69k1aDedWnc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.NavigateAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.NavigateAttribute.html",
+          "hash": "XciuAtSd55nYQ0W8Eg03bMTK7nbOLtbEg0eHJWmek9w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.OraclePrimaryKeyNameAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.OraclePrimaryKeyNameAttribute.html",
+          "hash": "j2+CpCJc+swGj+0WbyX9mwL/82fUUsgLsAthGgUYY4Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.RawValueAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.RawValueAttribute.html",
+          "hash": "lbzWIANZbVXwOxOPUQKPx4loDSkzgQzk8kJsDbIGCu4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.TableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.TableAttribute.html",
+          "hash": "JaNBUaDPWlSqndFNlZW/Eht93bqOsnIdMUHbpj5jRmw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.TableFluent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.TableFluent-1.html",
+          "hash": "TCQaxzcjpIArcru7cQEQKx9haymPmXVF2QioS/pnswo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.TableFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.TableFluent.html",
+          "hash": "mbreM/dG3CKj41ek3cbh4O4L7ypUneBKDMZPBygRn/w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataAnnotations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataAnnotations.html",
+          "hash": "1SV7kHMjur0o36wiBgkI9KNTTrJg+F7iDnZpYyBT4PM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DataType.html",
+          "hash": "Q2ZB3FY3KZGr0d4bSzvsxJvy1kPfzB+cJW0bRB43aEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbColumnInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbColumnInfo.html",
+          "hash": "iRR1Cs92W6u9num3lGYvZX6A1qzBhh3bQY9k/UA8vZ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbEnumInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbEnumInfo.html",
+          "hash": "iSzcBHscIq44385ARQRz7xlQj3PlxpBSz2v5vLpoxCY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbForeignInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbForeignInfo.html",
+          "hash": "e0Ugm1PfLPT0GSs7VKMdNAElRnv/r59ehFlKfLyKJfU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbIndexColumnInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbIndexColumnInfo.html",
+          "hash": "kdTilh5pm3cKOd8LB+ux8GoQjacXgkxqcIG4VxU99/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbIndexInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbIndexInfo.html",
+          "hash": "WmiLjrPd+6c7RPvVmXVvu+xv0cvyQzl2xj33eGx9DCQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbTableInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbTableInfo.html",
+          "hash": "JTduvKynnmB8edx/A3ZzKxMXHsLshs8OLn85+R9sEFY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbTableType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbTableType.html",
+          "hash": "U3z69UXTi3XS7V6BTNq63GWHWkyUYzeJGPg8UhfK22A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbTypeInfo.LabelInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbTypeInfo.LabelInfo.html",
+          "hash": "Phr09QRjn1SpOh2GRjXlyLN3LzsFm3kA99yk6HjG6hU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.DbTypeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.DbTypeInfo.html",
+          "hash": "kO7DALXysKE5tTy4wkcPh6+ZseYskY5ePoy7V/44tck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.DatabaseModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.DatabaseModel.html",
+          "hash": "tuhRIHlO6WgyTQ50BbxvgunYd41bX+rrVVyvnkIcRxE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Extensions.EntityUtil.EntityUtilExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Extensions.EntityUtil.EntityUtilExtensions.html",
+          "hash": "33D6bleXG7r83+7df+bfC528fZxlboLEMqOkyb9jqo8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Extensions.EntityUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Extensions.EntityUtil.html",
+          "hash": "aaIR2bzBck6MgDnsrJ3KZa+LayoOawnjI33OZCeBW18="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.FieldAliasOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.FieldAliasOptions.html",
+          "hash": "T4GRsQGNFOB6fni/VfjF8CYtmtNLjxU9HFRHAH/ydlU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.FreeSqlBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.FreeSqlBuilder.html",
+          "hash": "ZFxSacTXTVJ/b8LpAoWete42sGsT5Z13YrLq3qgCZmE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.IAdo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.IAdo.html",
+          "hash": "0Xin5zqKEYcPAu0J5ukNNgWadFyaw3wXQnsZlTBsGjE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.IAop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.IAop.html",
+          "hash": "Bu/IRD88Ii3LyyEjhFzKgnT0wWkin4wuHX8TKJdKi10="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ICodeFirst.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ICodeFirst.html",
+          "hash": "Sf+YfIqJ4pfJb9VJahkjf+tEshAc+n5JUhLBjNggIC4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.IDbFirst.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.IDbFirst.html",
+          "hash": "b9F8LBFjgxhoTUrHzLE9EEDbfuiso3Mu0aIDN5OHRVQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.IDelete-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.IDelete-1.html",
+          "hash": "Va5Sui0tUFsCc3UEwhABfEytssLJ80DSV/PFWbJ8HXI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.IInsert-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.IInsert-1.html",
+          "hash": "t1KI/Xa+UBulZPaiQnb9jgAo+slRMASyDT5xtBAniko="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.IInsertOrUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.IInsertOrUpdate-1.html",
+          "hash": "X6zpqPCc81ixgkYcKYpjFXvVumz5rPplNTbzSLHGZBw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-1.html",
+          "hash": "PW3PDxlHBXEQz54Tapncu+sIobQyBeTmykRCy5nzDXo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-10.html",
+          "hash": "orF+qnI4XF8jBsWqEIGz1IOcIokxLhDtq1s1Ti7Og9U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-11.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-11.html",
+          "hash": "d4up6PC08TEntXLdm7pAVgi8ZIAuLV7FhV8W1HJddkM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-12.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-12.html",
+          "hash": "eIfUhx7IYiUDsQcmKYYBIDwiwBXzaPjs0gIjzcA+cFo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-13.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-13.html",
+          "hash": "rKvLpfzXcNAg4A5lkQetCoPMWHuUbsktkrDkdy7q7Nk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-14.html",
+          "hash": "gBdvph6dnM7AK3P0rFVZcN3HhZBf4jf8aahrkTweh40="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-15.html",
+          "hash": "DZc8VG9kLzaMh5wHvJu8xl9Zz+b4EvNG7wcQQgQfBQk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-16.html",
+          "hash": "6LAvOjrDQ94SOw8pKqFqWChZH+qZkd4RKXw1/Dd69Xo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-2.html",
+          "hash": "3Up5xqBB1WEOk3ZUugKAVZCSSHjDPiwYtYmQn92nz7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-3.html",
+          "hash": "sAzNFKbV3GT2TrlJoEgGLnndzBdnnain8d014PUu6rU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-4.html",
+          "hash": "kJ4+PwEw2GCoKE5ITtIC18d3hiV+d8gdd+qPcwtrMlU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-5.html",
+          "hash": "aozAUw+HVIQLlnV2h44SwO/fmI8uTk7R9Z9Nkq+cxoU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-6.html",
+          "hash": "kXk7BrqX4hBN+qjFlOEqEdphYPGVlTKH7qh0D5J/OLs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-7.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-7.html",
+          "hash": "QJWKE0hTxYkCe5TS0uzN9kkyC946oo6NgcfSyhPVcWE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-8.html",
+          "hash": "HlGyIrosi0uyfuf0ru8uIqi3rAY7gd+cI06qfDEnAcg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect-9.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect-9.html",
+          "hash": "ThpJoUq83PMHRv/c3icBRmx9rV8VzxTrEzgI6WIfcBo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect0-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect0-2.html",
+          "hash": "4HYccJVSokmSigI5jd3BcWTIjkMFAnSNGkuLVMQHb1M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelect0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelect0.html",
+          "hash": "iQWz0yLGqb9q93Z5BqWarhw8fdRU6m3fOb0Al57ubso="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelectFromExpression-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelectFromExpression-1.html",
+          "hash": "W7AVj/1syrfmmkZI4nXXqrhyRft2qGGsQt1ez1I/X+E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelectGrouping-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelectGrouping-2.html",
+          "hash": "JC8AD2DmzMa04e/copdBIWPRbHstZKcbRLaJbREML2E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelectGroupingAggregate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelectGroupingAggregate-1.html",
+          "hash": "36lSZ0xBAdQ7CgfNJowZORlSsSS3zk1UHy2gH7oxn8w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.ISelectGroupingAggregate-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.ISelectGroupingAggregate-2.html",
+          "hash": "YavnFGJU2PClwANRBVm2RZMyMUFGyno43UqkaLiKRAc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.IUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.IUpdate-1.html",
+          "hash": "sMWVKDouNIC+a6shobkrCBipxdY1SDiqSczMmjU8dms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.BaseDiyMemberExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.BaseDiyMemberExpression.html",
+          "hash": "DL1awKPinVNafYX/28zS3dhrKl1tY7ulikslsF5dMKw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonExpression.ExpTSC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonExpression.ExpTSC.html",
+          "hash": "U/AIauFqY84h1idpWCNrmzahsmoyzsO1qh/7To21N5o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonExpression.ExpressionStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonExpression.ExpressionStyle.html",
+          "hash": "82FZAYdT3aEuSkmL489AZGFejhML2Mmrz3Pwn94gfnA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonExpression.ReadAnonymousDbValueRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonExpression.ReadAnonymousDbValueRef.html",
+          "hash": "LrONz+Mw5gXTnfG9vT3EIumeTDLeCUBUgMCkzRm1OFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonExpression.ReplaceHzyTupleToMultiParam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonExpression.ReplaceHzyTupleToMultiParam.html",
+          "hash": "h/4EQxrg9l96QfhfERZUZNPXfP1qSbilpwvIuRm+Www="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonExpression.ReplaceParameterVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonExpression.ReplaceParameterVisitor.html",
+          "hash": "6uAp+7nJ39NOg5ea/FBnHQGpXjSWyZjsxqadFki1U5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonExpression.html",
+          "hash": "k/cSWJlA6f0sXGN3EpLsZnD0LEJOZH/tRQQKMJyvkHA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.AdoProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.AdoProvider.html",
+          "hash": "hC1xbhzz7TW22w2NzO/4lckfYUUrp1mKfS3097/OztM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.AopProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.AopProvider.html",
+          "hash": "ngeRXYzpAyJdi9WEq2JskK8XV+VwKn1UQRYRW3k8izg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.BaseDbProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.BaseDbProvider.html",
+          "hash": "KWZFCt4XkqRXyZTx0oIzRLVGHA7EoR5sVs6o8zgi6lg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.CodeFirstProvider.TypeAndName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.CodeFirstProvider.TypeAndName.html",
+          "hash": "NvqHmyEPd61fTTahoz/Zp5dg1kJ2a03x6Jzl7T/wT7E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.CodeFirstProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.CodeFirstProvider.html",
+          "hash": "hvcogx3m/J7DrZg1bqSE5ZDQSwMnGt45liaHAHOO29A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.DbConnectionPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.DbConnectionPool.html",
+          "hash": "vto7T5kHZUDFc7blQD4/vUiwQEKwLfbB2pHY2i7Mla8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.DeleteProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.DeleteProvider-1.html",
+          "hash": "omN9ziEUaPba3hCQy3EacNbAc0eKUfnDFoYb5Wi4dCk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.InsertOrUpdateProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.InsertOrUpdateProvider-1.html",
+          "hash": "fNR420Tj6GSNDPYpQMwsAyi5cILj84LbtBnfePLNyt0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.InsertProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.InsertProvider-1.html",
+          "hash": "PAqjpqNbBzYr8amRFAJEkwwCXJa4p+YQ24rnW76wWS4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select0Provider-2.GetAllFieldExpressionTreeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select0Provider-2.GetAllFieldExpressionTreeInfo.html",
+          "hash": "8dk5YSPlO6acrqaanITgDuBRPOdzSJ5i9AbHbZyfZ0E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select0Provider-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select0Provider-2.html",
+          "hash": "v+BhujTNcTiSarmc0mxdBl4VKJ6aqSkF6hEe+zalpLI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select0Provider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select0Provider.html",
+          "hash": "xVHo/l13bGiNz8UaU1mVdLlJA+KJpmZARz8IvXoj4ck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select10Provider-10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select10Provider-10.html",
+          "hash": "YIak2/v2MQR/rglIcB1vEVMBX7u35Gh0db3/lcP3rC4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select11Provider-11.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select11Provider-11.html",
+          "hash": "fWsR8nrxRNxOsBzLLcICSauzO4EjnEzvT9Vjld0q5Gg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select12Provider-12.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select12Provider-12.html",
+          "hash": "vTEbpdr3C/vuyY6QtnrE6whv1XMwV5fhVHQUptBOI/I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select13Provider-13.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select13Provider-13.html",
+          "hash": "fXnNWCKElpY0yl5TispDuJSMIfblNJo9XsVSZ1jOJSQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select14Provider-14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select14Provider-14.html",
+          "hash": "dS5a6ew8fmSln1w2gf6PZuVkN2LsVCLhk4RuJI5Xfz4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select15Provider-15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select15Provider-15.html",
+          "hash": "GvTOHl7xCRikAc9Fy9C8ecfCFk3MdrN49DzK4iCumlA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select16Provider-16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select16Provider-16.html",
+          "hash": "BOUYYcGl8bjvSuBjBeYDq9U3Irevwu26pjFOFN2K+HI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select1Provider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select1Provider-1.html",
+          "hash": "SEdfR7r+dPSO5eBqMrfcQcN7jfIhzpgHp0mCoyEq41U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select2Provider-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select2Provider-2.html",
+          "hash": "N9eAV47I3lTXKrb0jVpMQIgFJzoQVeo1tLChGROW51Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select3Provider-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select3Provider-3.html",
+          "hash": "G8dcdfcsNv0wo8sGKA+4hnyqabSbK7jirLPI8JPrT94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select4Provider-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select4Provider-4.html",
+          "hash": "sbVHURtm+QEN617W0AjY9gPi9COrHV5YOtI7Svv9tBM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select5Provider-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select5Provider-5.html",
+          "hash": "vDcPbUlYrpGY/LL3GXQPJZb+GC9jKZMZRp8yMOs8nMo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select6Provider-6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select6Provider-6.html",
+          "hash": "fxzmOXT0RCnlvveYyZnMeHWyfHgQPxLCika4YEUZCLM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select7Provider-7.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select7Provider-7.html",
+          "hash": "2/61qhOJ4Ui6kBOEpB5ECtD4jBYO1C6/mES/k77Y+MM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select8Provider-8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select8Provider-8.html",
+          "hash": "nKKjj6CwXccEY1n+gUmGsmmPoi1yoAOGtM48zvc9y9Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.Select9Provider-9.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.Select9Provider-9.html",
+          "hash": "VRp/afMP2VbeHaaFdZd1qqt16B8PKnR48Is/R8xZxvo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.SelectGroupingProvider-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.SelectGroupingProvider-2.html",
+          "hash": "kzPn4IcEkc6oycDhu1mIYdEVoEb/6/Pm4nTO75jFlRM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.SelectGroupingProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.SelectGroupingProvider.html",
+          "hash": "rTSRCYqrF6pQF2FqF8Jm1uISXUYAD+P0Bmt7vXzb/U8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.UpdateProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.UpdateProvider-1.html",
+          "hash": "Gzb7qOumaI/cFxn6xdHej8o9MhTdSxsPmlWNye7Uu8U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonProvider.html",
+          "hash": "BBr6W1/69CEKA/c0TBFq8o3YloyTCsnNAuArMqqT3ck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.CommonUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.CommonUtils.html",
+          "hash": "VrMTOAJhpbL96nisyJzbmBu9b3+hT55Fdj6yfkZ5zAk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.DbUpdateVersionException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.DbUpdateVersionException.html",
+          "hash": "EmFLZsNSTDWowEIdStEgcsW/pbPejMjZjWePckCKUEo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.GlobalFilter.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.GlobalFilter.Item.html",
+          "hash": "vGK/pIPUaFfFcAMCW4MeA59Kqh+A4m66of2UhvSfqQQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.GlobalFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.GlobalFilter.html",
+          "hash": "TM5pBE/B4Elby+wc5RJLI5lCRWUleZaShPgLig2m16U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.AdoCommandFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.AdoCommandFluent.html",
+          "hash": "7mq4XT6IXgGOYXxrHEqvm1NOju/jtIHgdMlU6F0y41s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.BasePagingInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.BasePagingInfo.html",
+          "hash": "m8bNASsFHqewBbrXT7h8LEOBEsBcu2GhmA5WFn6w6w4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.BatchProgressStatus-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.BatchProgressStatus-1.html",
+          "hash": "z42XB8vlUpjPo0EQlF6DalN8DHHgl7jefCPN6nvmjbM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.ColumnInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.ColumnInfo.html",
+          "hash": "drTIv27iK69s18o7clEdKKB9CXAqVkzODuFP0j/W/i0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.CsToDb-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.CsToDb-1.html",
+          "hash": "ag2omNLh0FSWszW/apCwBo/VLN01RI94L4PATKEE++E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.CsToDb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.CsToDb.html",
+          "hash": "wUgfe71ictJT3n/3pIeM4mxKyDsbGqRp069qTc8cdNE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.DbInfoResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.DbInfoResult.html",
+          "hash": "yNfBvMHyvJudHx1+toBRWE+Unczw49woG/vh86/bisc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.DbToCs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.DbToCs.html",
+          "hash": "80Mifkfl9GbVHSe1fK94aJL+3OHh5oYQpOlxAW6Upyw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.DynamicFilterInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.DynamicFilterInfo.html",
+          "hash": "557t9huNOqcHZEkNX0fVrPP9Z/Ysqa0fHa8Sn81cNbg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.DynamicFilterLogic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.DynamicFilterLogic.html",
+          "hash": "e4CaVBNDComoEE3vokUtwQ3bef5yo426I/+y4HdyDHA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.DynamicFilterOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.DynamicFilterOperator.html",
+          "hash": "716KEhULO3JpdIiPNoqMB6jQKaPfCEb8PnyeV0Wy70k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.FetchCallbackArgs-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.FetchCallbackArgs-1.html",
+          "hash": "PK7zpX2yTQTKMpGlEPWB/O8xyH/EnwQ7jFjGvpH09vE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-1.html",
+          "hash": "0UrtKtiCdoucekRpawZy9elnPs6/9N4dBPP+DJPQ1Uc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-10.html",
+          "hash": "tCu9Iux5CT3KRyrDE2qgyeSZxslrj38YC0eZBw8PR9Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-11.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-11.html",
+          "hash": "Uo2Jstg0+xSniR0F18/f1YjgHnVrFp3/ajylZgBs+RI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-12.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-12.html",
+          "hash": "dNM4ALDe82JLMxsy7DKsBj1cQ400EG+OlrxVzAyFwIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-13.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-13.html",
+          "hash": "IXaXT5cjBJnh8/7XFEmjc9yr1qEex2TouAEqLv4dYuU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-14.html",
+          "hash": "+lM7nxs2+ugONxHXCaBTPdJKJvVygmZqFU3xUjUyK3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-15.html",
+          "hash": "B6A1GwwpUTdTMJo/4kKrp2MM9A5u1+1g80WC4YsGC8g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-16.html",
+          "hash": "q8y3JfjVIJFCNh1FYCYw+nf9Jpxb/+7GGeIXS1Kcy3k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-2.html",
+          "hash": "w5+4Ouy1pAdhaSw9iBxuAO6H5JL/FwgGsGkaXsr1Tp8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-3.html",
+          "hash": "WhJUTSaXXbRyAfX+21r2i/yvOXmdsHTIe17iMvNDLnk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-4.html",
+          "hash": "skwyaYGkEfTCOhWMzrojUzeFRfUtbu04CPXEzoCKDiE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-5.html",
+          "hash": "qecju7TnzzWtAciZZvLRyC9zPUJaNIvPN+GgL4hWSIk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-6.html",
+          "hash": "VyAi8BNnNNnHxcic/TZR8IHrkz4ZWs6vOa7lvq9/ZSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-7.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-7.html",
+          "hash": "Y6rjOAesHY+IGv0oiKZutgAgqQw+IKeA6jGLQJT35Wk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-8.html",
+          "hash": "TnVg+J+VVjop46RB0ZK4lAZQEDxBTvCx94CLito9esM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.HzyTuple-9.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.HzyTuple-9.html",
+          "hash": "2BOIWzwzkYFF6hX7rEmlyc4kp3XLGH62xlSBmiJPQas="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.IndexColumnInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.IndexColumnInfo.html",
+          "hash": "5R63EK4wQvHp9xd/vBPDPawbWG8TIPTgeJ0nFGLwtE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.IndexInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.IndexInfo.html",
+          "hash": "u0wNhJw5qHOfhcAf6yBd3ozWnCySktWHP9wTbJUuWng="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-10.html",
+          "hash": "ll01a30TzZBYdok4P7fAdy2+mB6PZZv9JI/+ngEjP1E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-11.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-11.html",
+          "hash": "41ZtGr+2fP2+lvlkng97DlQjALHRJ9Qmdi8XelDmq64="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-12.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-12.html",
+          "hash": "8G/1V8mwsXTCaTLOrLZQAVJt8CLhuGdJKfNK1hWkdaY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-13.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-13.html",
+          "hash": "lQ4nyVHIdDOePN1GD9N7w0yDEsFnLvucdB5oqR+ryT0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-14.html",
+          "hash": "zzpqVTM2jhW81gWo9YtsHyT3mdueb8nz8tYahKsdm94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-15.html",
+          "hash": "PbN39CgQguE3iPTvA4snt2T7fCupYGlEYvHlyntC+N4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-16.html",
+          "hash": "t2KaEL33KItvkh/pBDSva9Ml+T8PLuVovH3cR4KkIic="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-2.html",
+          "hash": "bNon3x2A2YwIfgWJQ2zDhyO08IHlQLWeYl9JcvhSM5s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-3.html",
+          "hash": "mwTT+sY8iutDUOVF/IUEplbhv4ZbfsLZvJPIjQw8OEY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-4.html",
+          "hash": "Nh2Y0x+mY9yRMULGdebAsFSeu0LdrPTu0MQ/ybIOVpw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-5.html",
+          "hash": "mXVE8VkLqyDQEgjsaplF9X3B5Mmx1EN1EvK2jbQb+Uc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-6.html",
+          "hash": "gF5NyXtGpUWBFkGlI7+yrK59YH92qfNYcuEW252iNM4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-7.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-7.html",
+          "hash": "5vPrzsuDUiyqLzTtGyKeNTSxXZhFWs6j52pP+PqSShs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-8.html",
+          "hash": "NjsUWNlnlCE7v7jRSGR3FWP1tiMO0hN4WhRN7FnvIHg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple-9.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple-9.html",
+          "hash": "iUHmfP2Rf5Fz+3hH4lRx4rl7CAyJDICnTZajaBR2dPc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.NativeTuple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.NativeTuple.html",
+          "hash": "35yN27kq8J0FOAg407kCWq5Yg5yMBC4PuZ0ltTXjqLM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.ReadAnonymousTypeAfInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.ReadAnonymousTypeAfInfo.html",
+          "hash": "b0wUCUxpLRfjCnftDkma6l00JgS0T80FQLOLvUnIFUo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.ReadAnonymousTypeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.ReadAnonymousTypeInfo.html",
+          "hash": "le72dliHwA5VKeG7Nis6dO5RSBNR5Tju2QzAkWmYJmo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.ReadAnonymousTypeOtherInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.ReadAnonymousTypeOtherInfo.html",
+          "hash": "r3dugxnyzHCLCAT6UApWzKSfKypceLVDjmgcCMbtKhM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.SelectColumnInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.SelectColumnInfo.html",
+          "hash": "EuBzSpgo3s1KEr9m09MnCgaAL7+rNZ3OD3ZnEInHJtE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.SelectTableInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.SelectTableInfo.html",
+          "hash": "tSjja8fhabNf2GCQ+4BluRnX6iGDgEZXUDMScdj+D2g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.SelectTableInfoType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.SelectTableInfoType.html",
+          "hash": "4sic98RVIaxuraLAcsdQU1+EC5YlAj+z8uHeia1zyTM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.TableInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.TableInfo.html",
+          "hash": "hOBnx/nQCaYnSWcHl41PHBzb0zmbKlL0Boe/RkxsAxM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.TableRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.TableRef.html",
+          "hash": "OhW2Ch7jip4wZPar6lrdXmUkJfYKD5vP8LWZpY8KgtM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.TableRefType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.TableRefType.html",
+          "hash": "GgJT9uDtUuCviqAX2qEZ7s0to4x5szF+61Gqbqq1Vsk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Model.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Model.html",
+          "hash": "s46LkmhmItjkR73NHXVZDeqGVaiA66Dwti0qu2jaGDI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.NameConvertType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.NameConvertType.html",
+          "hash": "jBPa62oA65ZP4rG+UyEFmTQfWfLu85d1IK1g0pJlNcQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.ObjectPool.DefaultPolicy-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.ObjectPool.DefaultPolicy-1.html",
+          "hash": "nDQ48cnun9U4RAM5E1JW43jjBD9/RFmUUtVzZ2sum8s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.ObjectPool.IObjectPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.ObjectPool.IObjectPool-1.html",
+          "hash": "D6TXR4HLoVhAfWmVCPo43q92Kdj/n1GpmBTum9uch3s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.ObjectPool.IPolicy-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.ObjectPool.IPolicy-1.html",
+          "hash": "/D/CSdKtSuQi0drpgIhZlwxsgYBn7JObb9TWLy9Mdwg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.ObjectPool.Object-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.ObjectPool.Object-1.html",
+          "hash": "FOANWt4O3Vz/x5tT7pyUSYlc7a8PDNbvbG2LzT3hj08="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.ObjectPool.ObjectPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.ObjectPool.ObjectPool-1.html",
+          "hash": "XXAyzQnX4t6Sc1fjSEdUTVfREFrhP7wKhEqmLk8cYuc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.ObjectPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.ObjectPool.html",
+          "hash": "gc/FfLWU7zGvahchKaQEg/aLNk6g+NX3urSO3Hu6sRw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.StringConvertType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.StringConvertType.html",
+          "hash": "SGFxLbb5P5gxyuFJZs/S+OcNko7TQ+2Myr13SpSrOIc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.Utils.html",
+          "hash": "M1c5RzqRKXC93ed/48zj2E2jus2Sujg3fdh/XD+Awz8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.Internal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.Internal.html",
+          "hash": "3xkhMnt70XSeINrU3FZLsaDb95BT8sFJvpfmEMRSF3k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.SqlExt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.SqlExt.html",
+          "hash": "jOR0Xvse82HJ8nHbMbSSkyj6ymngzSdW3VDhRa5ZnQk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.SqlExtExtensions.ICaseWhenEnd-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.SqlExtExtensions.ICaseWhenEnd-1.html",
+          "hash": "ZPEyInM0TcDxiE0e7Qv0CmmFsuWXuO1t5BN+i4dtZLI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.SqlExtExtensions.ICaseWhenEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.SqlExtExtensions.ICaseWhenEnd.html",
+          "hash": "P0/sBI48ZUEJugqkNCytySte7uNwq0fK2F7EcepR7rQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.SqlExtExtensions.IGroupConcat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.SqlExtExtensions.IGroupConcat.html",
+          "hash": "mElPjMT9U3PFD2+lUffMVkx8Rk2oBqQ6fH4m4d/DdUE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.SqlExtExtensions.ISqlOver-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.SqlExtExtensions.ISqlOver-1.html",
+          "hash": "UXcBXT4NTsl2vaeguH2tia+RqdwLe0mcD0ZbB5OrPr0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.SqlExtExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.SqlExtExtensions.html",
+          "hash": "y9ZyORq5qahcvARinIqQyydv++ZdIn6Ed0Lm0SiCRrg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "api/FreeSql.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FreeSql.html",
+          "hash": "IYoMZuEWcllqnE0Gkavir2TlcsmCTdY/CO2pr6wWFKA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Linq.Expressions.LambadaExpressionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Linq.Expressions.LambadaExpressionExtensions.html",
+          "hash": "43vxeM0yBijlFbXp+/awf2aNR9IbQWdaw+3b3/omjR0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Linq.Expressions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Linq.Expressions.html",
+          "hash": "CceafbxopFsg9JN1y+mR8FAbmybjmXXZLh1+DNrRFYw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "6FG91LP5OlUPlsl8UD3Bqhizjqmx7NZg7lR/WLtEFl0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "FMRH76+VmrTUgLEz9qCbxcqOpesVWCy6b/Rt9OR6Upk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Dameng.DamengProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Dameng.DamengProvider-1.html",
+          "hash": "J3EAPn5B/fBI5eTVoaapuWHrCZDzsGoJYEGRA6HS2T0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Dameng.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Dameng.html",
+          "hash": "dse3i/Q0oSOOESZVDWnz75GvJ+JlERteF8ov9BHhmUM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.KingbaseES.KingbaseESOnConflictDoUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.KingbaseES.KingbaseESOnConflictDoUpdate-1.html",
+          "hash": "fcirL8BYUMXSvZ96zQJSI3x+WOJBPXmnCT0qrAqvYPk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.KingbaseES.KingbaseESProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.KingbaseES.KingbaseESProvider-1.html",
+          "hash": "KlngiSC3rZ/u2VbiBX7SCr6Qdw8CajqCmCc3fO+8Trc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.KingbaseES.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.KingbaseES.html",
+          "hash": "2f0JmgzzlRUsktCuSgmQwssglyLZIpaRnF3zD/rtWiE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.MsAccess.MsAccessProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.MsAccess.MsAccessProvider-1.html",
+          "hash": "o9OjF/uYDw5z5H3S/tDOrpZQL4O4pCn0qMMsZ6fUC2w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.MsAccess.MsAccessUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.MsAccess.MsAccessUtils.html",
+          "hash": "fO64lKsQMQJZdFo6YuGWMxsz8BeP1B7O5bJYMxhz+Ow="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.MsAccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.MsAccess.html",
+          "hash": "aqtMPRtIc/cnqSEin3D0ZGsU0wQhh/J4H/qjXHd0h88="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.MySql.Curd.OnDuplicateKeyUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.MySql.Curd.OnDuplicateKeyUpdate-1.html",
+          "hash": "H70FBYgNgQnVUQZFqKy4qcftvV2C3BaZSYTgDEDREGI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.MySql.Curd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.MySql.Curd.html",
+          "hash": "FV39YDN5AQ3Sba+beyJVcWL6n1vgQHoy4/ueNuHBxIA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.MySql.MySqlProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.MySql.MySqlProvider-1.html",
+          "hash": "58Jduu1mVSRvdsBT89qSZcLYHd0rF7xysRu/2ybo9+0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.MySql.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.MySql.html",
+          "hash": "+LrhIVOxROAgvlL9+OQavgt1aOAD8hAhrFylWUsZ5SE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Dameng.OdbcDamengProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Dameng.OdbcDamengProvider-1.html",
+          "hash": "PRoygcSY0Nqg8aUVokeaRi+moHY0OQO6JfGjGZrTH18="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Dameng.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Dameng.html",
+          "hash": "Bxtl8u/4aeu4MqG1GaaxrKVMTfKmOb78xUAdq5Bfz4Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcAdapter.SelecTopStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcAdapter.SelecTopStyle.html",
+          "hash": "LDGyCpfv6OEKiLGV26lKGPZK+j4jrSELUguPNV7zQsE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcAdapter.html",
+          "hash": "+4ms7pbxvUwT7H46zWf/g9CdNZEzXwH0lNTNzQT33F0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcProvider-1.html",
+          "hash": "uQ4ofJ7/Yx3dAyfPpj+YXicO/EWyDAK+g/mNTMi7Nz4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Default.OdbcUtils.html",
+          "hash": "JrmSo30E9ZGxAqM9VC6FZXNWA8xQYU7aCa3kKGzgaiU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Default.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Default.html",
+          "hash": "yVQaWKOlYvImsd/R0szqQ5eQMebdhIeYmAhOMlNCxl0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.KingbaseES.OdbcKingbaseESOnConflictDoUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.KingbaseES.OdbcKingbaseESOnConflictDoUpdate-1.html",
+          "hash": "fEZyVA6wzRKjBHYD/fNb+O3Ys0dcY+WWwtKYtAm0awY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.KingbaseES.OdbcKingbaseESProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.KingbaseES.OdbcKingbaseESProvider-1.html",
+          "hash": "jw/xsqXy5yiPaft07keCbw2VcQPxfDtL6+htYWYUBFU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.KingbaseES.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.KingbaseES.html",
+          "hash": "Ci1LtHPQmVSf+t9nKjlJ+xhRtfFyUcrp3BdlxaxsqMU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.MySql.OdbcMySqlOnDuplicateKeyUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.MySql.OdbcMySqlOnDuplicateKeyUpdate-1.html",
+          "hash": "BdxmWJwk0Ko6H/SKqtMSHbP/yl95zgWS0U6NVOXNPSI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.MySql.OdbcMySqlProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.MySql.OdbcMySqlProvider-1.html",
+          "hash": "FgmCQr89xplFPnGjwOCHaJPFJRkMjdWXu9+dCGRLSS4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.MySql.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.MySql.html",
+          "hash": "LqyZfX2iqNheV8sjrfHdJCD4KsnxwyPIOyELqjZw2Bg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Oracle.OdbcOracleProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Oracle.OdbcOracleProvider-1.html",
+          "hash": "3RhPAwOMgYgjuuEkGHplyJ0wYW3w2fXci/xUE4Msj9A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.Oracle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.Oracle.html",
+          "hash": "AtUF/XmfZhfZ7PQ6cX/HMhhRFAMXKBo8KdiWUASKVpo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.PostgreSQL.OdbcPostgreSQLOnConflictDoUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.PostgreSQL.OdbcPostgreSQLOnConflictDoUpdate-1.html",
+          "hash": "HSC42XQn0rveTFoQQN8VoYUdIv61eAUEh1YHrQsQWGc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.PostgreSQL.OdbcPostgreSQLProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.PostgreSQL.OdbcPostgreSQLProvider-1.html",
+          "hash": "D6o7Aq7IP+lKTDjnvrgjX3/YKSE2HIVimDRCTgvJZP4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.PostgreSQL.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.PostgreSQL.html",
+          "hash": "1SrIv/X6kCF1WMESxOAaZpXTiihbflXLBxThR8KPgPo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.SqlServer.OdbcSqlServerProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.SqlServer.OdbcSqlServerProvider-1.html",
+          "hash": "pNnm7yvWOH6wuzrEKriDuzetSeRj3eHT++lFoLIwo1o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.SqlServer.OdbcSqlServerUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.SqlServer.OdbcSqlServerUtils.html",
+          "hash": "/NBkHJwKnCpwK5lUqiZKMJMxbth3Hxy72PJAU8rQtL8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Odbc.SqlServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Odbc.SqlServer.html",
+          "hash": "23fhkmlowPGfXs1bqBTyQ1OWgMFjDy7qpT3sZzuovFs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Oracle.OracleProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Oracle.OracleProvider-1.html",
+          "hash": "objMHJRzkz+iNDgHwfYqg/DoDScACiMBbq3LEhySpmA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Oracle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Oracle.html",
+          "hash": "weom5ywJzlhnZd+jTbMNZLKsur5c2S3ppRwVBjAOD6U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.PostgreSQL.Curd.OnConflictDoUpdate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.PostgreSQL.Curd.OnConflictDoUpdate-1.html",
+          "hash": "1b3Ss2mZ/TCL49ZyYXKiAYm9UYrt7HmLiwO8xlckMkY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.PostgreSQL.Curd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.PostgreSQL.Curd.html",
+          "hash": "TjTdMTpQmw61A6v8H590LaTeprt+mt21UY2FlqzGonw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.PostgreSQL.PostgreSQLProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.PostgreSQL.PostgreSQLProvider-1.html",
+          "hash": "QVJcfHpfyKJ8syCnLsWPjjE/CbYyztLvv/jfgqtQ/pM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.PostgreSQL.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.PostgreSQL.html",
+          "hash": "gxvLdqBWn5XHBSkrUDFKUxxPTJE3uKJMKXqNKjwfjC0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.SqlServer.SqlServerProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.SqlServer.SqlServerProvider-1.html",
+          "hash": "L04w2Iec/oY1yutuklKsUCLj/hd/dfm7pZ2cDt6ECe0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.SqlServer.SqlServerUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.SqlServer.SqlServerUtils.html",
+          "hash": "KpKFMMezp6ID9vu6Q3XsPYQr2Z/zZsUIuqgx1IeAG5Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.SqlServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.SqlServer.html",
+          "hash": "XI8UYjEB0AMJpMXyc3SML0l9CVeFLydzMCA0ktpuqJ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Sqlite.SqliteProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Sqlite.SqliteProvider-1.html",
+          "hash": "t8S6WDyYOWJk23vOaHJRgpz3x5HhwvJ4ZWn55CiFPSE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/FreeSql.Sqlite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/FreeSql.Sqlite.html",
+          "hash": "jUTDN2Yp1nF7BFjbJ8vVT4+UPFbLyHueaKPvsc0M1yo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/Newtonsoft.Json.PostgreSQLTypesConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/Newtonsoft.Json.PostgreSQLTypesConverter.html",
+          "hash": "WxfU3MICxcAUyMgYz/paYK/jxgNOA5y73uWFf5qeBxA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/provider/Newtonsoft.Json.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/Newtonsoft.Json.html",
+          "hash": "TTKpEK3NQAX6bZH/gbuxixBFIdoRyNBUYIMozuxyS6k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "freesql/provider/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/index.html",
+          "hash": "SxH5j+7fg+Xv7L743F/sNt2QIp1ygh8yYLrEOX7jpGw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "freesql/provider/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/provider/toc.html",
+          "hash": "mx6J1R/h9YCrJIuFq3X8zCghZgvjMoNd4jWhCq3Y+mA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.BaseRepository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.BaseRepository-1.html",
+          "hash": "0QqBAFvimXWsq6v/p5lLGfgyuvRq8vqkSwpfMs2MNjk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.BaseRepository-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.BaseRepository-2.html",
+          "hash": "g9o257z++U0Hsi2ikSDmMTs2a4UNSS0wyYcAmDg8zQ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbContext.EntityChangeReport.ChangeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbContext.EntityChangeReport.ChangeInfo.html",
+          "hash": "3JZHhHs6A9q9g3lEzRVQu8GeYTxvtDuWyA2qewU9Ko4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbContext.EntityChangeReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbContext.EntityChangeReport.html",
+          "hash": "S9qqhBsoRyxtkRib3f/06L/I4Gnf4l+jxgj30MYUZ3w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbContext.EntityChangeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbContext.EntityChangeType.html",
+          "hash": "EiVHRPsvQqjmguehwJ4BP5xsRK+zjNcF56VPAgDitfc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbContext.html",
+          "hash": "Jhu7iX3d80O9wMcqghioP/Wu9mR7UAxujaHB4yr0BOY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbContextOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbContextOptions.html",
+          "hash": "17C5D32Rxd4KraEhhNQOoiOxh0XFw9P8eKicIyXtmhk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbContextOptionsBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbContextOptionsBuilder.html",
+          "hash": "T23miZxYFx2gYEH8Mn8dIw2fXpY+m7Cu6jR+8uRF6TA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbSet-1.EntityState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbSet-1.EntityState.html",
+          "hash": "sw/n7b/9er7typ0mkyo9OrhUYxhF8JRcmSa6xtTOPgM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DbSet-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DbSet-1.html",
+          "hash": "xk02/F8uYbHWCFoFULsXz7WugL6T4IPN2w1iM5/gXRc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.DefaultRepository-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.DefaultRepository-2.html",
+          "hash": "FW8wTybIQx9H2YygGrBx6hCxQkqXNZDCKS4L5DRHcwA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreColumnFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreColumnFluent.html",
+          "hash": "lBOH4FNSmjT4tklrIcsBijIaimKq7sLtsNSvog51GHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.HasIndexFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.HasIndexFluent.html",
+          "hash": "cB9f1Zm3s/nW6FPtTwaGQhJiT5/PCkAGfJpPB0NJGBI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.HasManyFluent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.HasManyFluent-1.html",
+          "hash": "s/ZSMvLSo5yOqzcTOpcmtloz8EGUpxZx7/FrYvucqIA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.HasOneFluent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.HasOneFluent-1.html",
+          "hash": "e2AzQN7wtQnlRQxC119KU5uV4rxEBxFLawuHNVqoFtM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent-1.html",
+          "hash": "/ltg9pLZRX0tkmKyCpTqlLgwpOhAVioprmZE7jSJvis="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.HasIndexFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.HasIndexFluent.html",
+          "hash": "AmMM/im6pKphHzYSIDJue/CGnnIeb6pucZ0OzRwVK+w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.HasManyFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.HasManyFluent.html",
+          "hash": "9Qi+dL0T4uciiQP/zuyzMDg2ryEhOtY1Hh9kMvYeM4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.HasOneFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.HasOneFluent.html",
+          "hash": "opKjRbP7ihDKiCtHj9UPbuSB3doxbKP3VlYJRX7z+Q4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.EfCoreTableFluent.html",
+          "hash": "MuTD6lpGSi6KEWSPdlPUTy80sLmDhu8VFH4LOO3xRDI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Extensions.EfCoreFluentApi.html",
+          "hash": "tch/nduvlmavBJDsHG5EEfumHQb3DKtSx2N6jgiHfMc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.FluentDataFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.FluentDataFilter.html",
+          "hash": "DmbtiSUuvTmVF6FpKfhf6vPYTTgwTzcdbD5Xw7p+7s8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.FreeContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.FreeContext.html",
+          "hash": "RNXjKNUKnSHCfSrRuSb6Fw1skGOrV0Y50ylHYKHGqP0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.GuidRepository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.GuidRepository-1.html",
+          "hash": "stTneZzqTkK3TkON5teho4kmx/VN01tnw47vQooSRrc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.IBaseRepository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.IBaseRepository-1.html",
+          "hash": "168Hmu35QR/wGDglFodpOeHA+1E69HWbl9S6LNFwS2s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.IBaseRepository-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.IBaseRepository-2.html",
+          "hash": "Y+CpL3zhReuL8fSUfNE+Qit9kGIvD4XM/elAVDxwhgU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.IBaseRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.IBaseRepository.html",
+          "hash": "b6hTVEdxnnT2A472aQyju02lWQFjNTfuuYmmC3a5VMk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.IDataFilter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.IDataFilter-1.html",
+          "hash": "RjSA4l9E+IwiK+FfkJoT+/pV+y9xeYD6q/M8at5xmw4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.IDbSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.IDbSet.html",
+          "hash": "cWSyWN4kmHGCkRE66r8wHiodO62wbTS59dS4fEsIXbc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.IRepositoryUnitOfWork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.IRepositoryUnitOfWork.html",
+          "hash": "i2uItVme6QVIbseKHxZKAIjbRxU5C9pn/8G2OIaiG5k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.IUnitOfWork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.IUnitOfWork.html",
+          "hash": "VTTDoZlDOdCKlH8FNsg8Yg204fl91LkszM8NxQJILxE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.Propagation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.Propagation.html",
+          "hash": "0DiXixHC38DK+nWlUtH2cZpAtNZ54GrtkXGqiP0J0i8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.UnitOfWork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.UnitOfWork.html",
+          "hash": "BUxdDJFfTDSrbZtKHdcQo40c6VcnSyYklin+GhafHqY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.UnitOfWorkManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.UnitOfWorkManager.html",
+          "hash": "BpKot5Jmpb6sc+WWpNPaDE6TdMkqmNyYadnO9TAOT0k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "freesql/repository/FreeSql.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/FreeSql.html",
+          "hash": "51tN4Yl5s2W6JN9riGncVaoKdI4djh/R4yFAW7szR2g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "freesql/repository/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/index.html",
+          "hash": "7doVneJ0uoBL/y14wNBv1N0qfpFjYWHPrJ5/6xVmOHs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "freesql/repository/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "freesql/repository/toc.html",
+          "hash": "rZYBwPl5ynK/XJlqhwJOYSniabBoS05q2OhckKw8Doo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "6wJFHsoxGY4KWNFj0Unmu7bmXICQK9t4fdxSBcLDGFs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+VNc+vl0MS+DL13vwZk4YSzxaaOuOEse4aNkPsEwHK8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 274,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
