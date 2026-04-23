@@ -9,6 +9,12 @@ using System.Threading;
 namespace FreeSql
 {
     /// <summary>
+    /// 工作单元管理器（泛型版本）
+    /// </summary>
+    /// <typeparam name="TMark">标记类型</typeparam>
+    public interface IUnitOfWorkManager<TMark> : IUnitOfWorkManager { }
+
+    /// <summary>
     /// 工作单元管理器
     /// </summary>
     public interface IUnitOfWorkManager : IDisposable
@@ -30,6 +36,15 @@ namespace FreeSql
         /// <param name="isolationLevel">事务隔离级别</param>
         /// <returns></returns>
         IUnitOfWork Begin(Propagation propagation = Propagation.Required, IsolationLevel? isolationLevel = null);
+    }
+
+    /// <summary>
+    /// 工作单元管理器（泛型版本）
+    /// </summary>
+    /// <typeparam name="TMark">标记类型</typeparam>
+    public class UnitOfWorkManager<TMark> : UnitOfWorkManager, IUnitOfWorkManager<TMark>
+    {
+        public UnitOfWorkManager(IFreeSql<TMark> fsql) : base(fsql) { }
     }
 
     /// <summary>

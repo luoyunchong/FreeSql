@@ -714,6 +714,12 @@
             例如：20191121_214504_1
             </summary>
         </member>
+        <member name="T:FreeSql.IUnitOfWorkManager`1">
+            <summary>
+            工作单元管理器（泛型版本）
+            </summary>
+            <typeparam name="TMark">标记类型</typeparam>
+        </member>
         <member name="T:FreeSql.IUnitOfWorkManager">
             <summary>
             工作单元管理器
@@ -737,6 +743,12 @@
             <param name="propagation">事务传播方式</param>
             <param name="isolationLevel">事务隔离级别</param>
             <returns></returns>
+        </member>
+        <member name="T:FreeSql.UnitOfWorkManager`1">
+            <summary>
+            工作单元管理器（泛型版本）
+            </summary>
+            <typeparam name="TMark">标记类型</typeparam>
         </member>
         <member name="T:FreeSql.UnitOfWorkManager">
             <summary>
